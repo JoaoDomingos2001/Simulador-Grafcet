@@ -1,0 +1,2 @@
+# Bibliotecas necessárias para os simuladores GRAFCET
+matplotlib>=3.5.0
